@@ -10,7 +10,5 @@ for i in array:
         c+=1
 if (c==3):
     print('Three')
-elif(c==4):
-    print('Four')
 else:
-    print('Other')
+    print('Four')
